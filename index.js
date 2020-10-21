@@ -1,20 +1,20 @@
 // write your code below!
-const name = "Jerromy";
-const holiday = "holidays";
-const days = "March 11th";
+// const name = "Jerromy";
+// const holiday = "holidays";
+// const days = "March 11th";
 
 function happyHolidays() {
-  return "Happy holidays!";
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo() {
-  return `Happy holidays, ${name}`;
+  return `Happy holidays, ${name}`
 }
 
 function happyCustomHolidaysTo() {
-  return `Happy ${holiday}, ${name}!`;
+  return `Happy ${holiday}, ${name}!`
 }
 
 function holidayCountdown() {
-  return `It's ${days} days until ${holiday}!`;
+  return `It's ${days} days until ${holiday}!`
 }
